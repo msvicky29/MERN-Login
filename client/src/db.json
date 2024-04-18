@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Nick fury",
+        "email": "nickfury@avengers.org"
+      },
+      {
+        "id": "3",
+        "name": "John doe",
+        "username": "John123",
+        "email": "john@gmail.com",
+        "phone": "+91 874256178"
+      },
+      {
+        "id": "4",
+        "name": "Millie Bobby brown",
+        "username": "brown11",
+        "email": "eleven@gmail.com",
+        "phone": "+91 114455669"
+      },
+      {
+        "id": "5",
+        "name": "Hawk eye",
+        "username": "arrow123",
+        "email": "hawk123@gmail.com",
+        "phone": "+1 2304696235"
+      },
+      {
+        "id": "6",
+        "name": "Vigneswaraa MS",
+        "email": "msv2983@gmail.com"
+      },
+      {
+        "id": "7",
+        "name": "MS Dhoni",
+        "email": "thalacsk@gmail.com"
+      }
+    ]
+  }
